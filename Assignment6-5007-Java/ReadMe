@@ -1,5 +1,5 @@
 
-#Assignment6
+# Assignment6
 
 #Description
 Create a Java class PalindromeServer.
@@ -10,7 +10,7 @@ The server continues to run until it is terminated, so any number of clients can
 
 
 
-#How to use
+# How to use
 1. Run the Code on Eclipse
 2. Hit Run Configuration, Go to Arguement, Give a port Number
 3. Go To Terminal: NC 127.0.0.1 + (port Number)
